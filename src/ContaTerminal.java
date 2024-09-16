@@ -20,5 +20,7 @@ public class ContaTerminal {
         cliente.setSaldoConta(Long.parseLong(inputDados.nextLine()));
 
         cliente.menssagemBoasVindas();
+
+
     }
 }
